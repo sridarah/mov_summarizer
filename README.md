@@ -1,4 +1,4 @@
-# mov_summarizer
+# Movie Summarizer
 Implementation of the Personalized Movie Summarizer presented in the paper "What do you wish to see? A Summarization System for Movies based on User Preferences"
 
 For more information please read the README.txt file
